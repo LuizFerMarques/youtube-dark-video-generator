@@ -1,0 +1,7 @@
+moviepy==2.1.1
+edge-tts==6.1.19
+python-dotenv==1.0.1
+Pillow==10.4.0
+imageio==2.36.0
+imageio-ffmpeg==0.5.1
+numpy==2.1.1

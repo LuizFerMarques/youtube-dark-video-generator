@@ -1,0 +1,92 @@
+{
+  "slug": "teste",
+  "theme": "oração",
+  "title": "Teste",
+  "roteiro": "Você já sentiu que Deus está em silêncio?\n\nHá momentos em que a alma se cansa,\no coração se aperta,\ne tudo o que nos resta é orar.\n\nA oração não é apenas palavras lançadas ao vento.\nEla é um encontro com Deus.\nÉ um refúgio.\nÉ um clamor.\nÉ entrega.",
+  "audio_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\saida\\narracao.mp3",
+  "subtitle_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\saida\\legendas.srt",
+  "video_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\saida\\video_final.mp4",
+  "scenes": [
+    {
+      "index": 1,
+      "text": "Você já sentiu que Deus está em silêncio?",
+      "duration": 4.0,
+      "start_time": 0.0,
+      "end_time": 4.0,
+      "prompt": "heavenly light, divine presence, spiritual environment, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_01.png"
+    },
+    {
+      "index": 2,
+      "text": "Há momentos em que a alma se cansa,",
+      "duration": 4.0,
+      "start_time": 4.0,
+      "end_time": 8.0,
+      "prompt": "symbolic visual representation of oração, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_02.png"
+    },
+    {
+      "index": 3,
+      "text": "o coração se aperta,",
+      "duration": 4.0,
+      "start_time": 8.0,
+      "end_time": 12.0,
+      "prompt": "person praying, hands together, sacred atmosphere, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_03.png"
+    },
+    {
+      "index": 4,
+      "text": "e tudo o que nos resta é orar.",
+      "duration": 4.0,
+      "start_time": 12.0,
+      "end_time": 16.0,
+      "prompt": "symbolic visual representation of oração, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_04.png"
+    },
+    {
+      "index": 5,
+      "text": "A oração não é apenas palavras lançadas ao vento.",
+      "duration": 4.09,
+      "start_time": 16.0,
+      "end_time": 20.09,
+      "prompt": "person praying, hands together, sacred atmosphere, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_05.png"
+    },
+    {
+      "index": 6,
+      "text": "Ela é um encontro com Deus.",
+      "duration": 4.0,
+      "start_time": 20.09,
+      "end_time": 24.09,
+      "prompt": "heavenly light, divine presence, spiritual environment, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_06.png"
+    },
+    {
+      "index": 7,
+      "text": "É um refúgio.",
+      "duration": 4.0,
+      "start_time": 24.09,
+      "end_time": 28.09,
+      "prompt": "symbolic visual representation of oração, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_07.png"
+    },
+    {
+      "index": 8,
+      "text": "É um clamor.",
+      "duration": 4.0,
+      "start_time": 28.09,
+      "end_time": 32.09,
+      "prompt": "symbolic visual representation of oração, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_08.png"
+    },
+    {
+      "index": 9,
+      "text": "É entrega.",
+      "duration": 4.0,
+      "start_time": 32.09,
+      "end_time": 36.09,
+      "prompt": "symbolic visual representation of oração, cinematic, emotional, dramatic lighting, ultra realistic, 4k",
+      "image_path": "C:\\Users\\Pichau\\Desktop\\Projetos\\Youtube_dark_factory\\assets\\projetos\\teste\\imagens\\cena_09.png"
+    }
+  ]
+}
